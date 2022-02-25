@@ -1,0 +1,304 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sentence of the court of Holland, Zealand, and Friesland, against Mr. Simon van Halewyn ... and Robert de Pille du Plessis ... pronounc'd July the 31st. 1693 ... : containing a full account of the whole intriegue for the carrying on a peace with France ... : done out of the Dutch.</title>
+            <title>Sententie van den Hove van Hollandt, Zeelandt, ende Vrieslandtjegens Mr. Simon van Halewyn. English</title>
+            <author>Holland (Netherlands : Province). Hof.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59211</idno>
+            <idno type="STC">Wing S2556</idno>
+            <idno type="STC">ESTC R21922</idno>
+            <idno type="EEBO-CITATION">12261072</idno>
+            <idno type="OCLC">ocm 12261072</idno>
+            <idno type="VID">57900</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59211)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57900)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 876:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sentence of the court of Holland, Zealand, and Friesland, against Mr. Simon van Halewyn ... and Robert de Pille du Plessis ... pronounc'd July the 31st. 1693 ... : containing a full account of the whole intriegue for the carrying on a peace with France ... : done out of the Dutch.</title>
+                  <title>Sententie van den Hove van Hollandt, Zeelandt, ende Vrieslandtjegens Mr. Simon van Halewyn. English</title>
+                  <author>Holland (Netherlands : Province). Hof.</author>
+               </titleStmt>
+               <extent>[2], 25, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Books sold by Richard Baldwin : p. 25-[1] at end.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Halewijn, Simon van.</term>
+               <term>Pille du Plessis, Robert de.</term>
+               <term>Holland (Netherlands : Province). --  Hof. --  Sententie van den Hove van Hollandt, Zeelandt, ende Vrieslandt jegens Robert de Pille du Plessis. --  English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57900:1"/>
+            <pb facs="tcp:57900:1" rendition="simple:additions"/>
+            <p>THE SENTENCE OF THE COURT OF <hi>Holland, Zealand,</hi> and <hi>Frieſland,</hi> AGAINST Mr. <hi>Simon van Halewyn,</hi> Burgher Maſter of <hi>Dort.</hi> AND <hi>Robert de Pille du Pleſſis,</hi> Emiſſary of the <hi>French</hi> King: Pronounc'd <hi>July</hi> the 31ſt. 1693.</p>
+            <p>Containing a full Account of the whole Intriegue for the carrying on a Peace with <hi>France,</hi> and the Pro<g ref="char:EOLhyphen"/>ject of it made by the ſaid <hi>Halewyn.</hi>
+            </p>
+            <p>Printed at the <hi>Hague</hi> by Order and Authority of the States-General.</p>
+            <p>Done out of the <hi>Dutch.</hi>
+            </p>
+            <p>
+               <hi>London:</hi> Printed for <hi>Richard Baldwin,</hi> near the <hi>Ox<g ref="char:EOLhyphen"/>ford-Arms</hi> in <hi>Warwick-Lane.</hi> MDCXCIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:57900:2"/>
+            <pb n="1" facs="tcp:57900:2"/>
+            <head>
+               <hi>Mr.</hi> Simon Van Halewiin<hi>'s SENTENCE.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas Mr. <hi>Simon van Halewiin,</hi> born at <hi>Dort,</hi> and Burgher-Ma<g ref="char:EOLhyphen"/>ſter Senior of the ſame place, at preſent Priſoner in the Gate<g ref="char:EOLhyphen"/>houſe of the Court of <hi>Holland,</hi> has confeſs'd without torture, and being with<g ref="char:EOLhyphen"/>out Iron-Fetters, that he went out of this Coun<g ref="char:EOLhyphen"/>try laſt year about three Days after the Fight of <hi>Steenkirk,</hi> to travel into <hi>Germany</hi> and <hi>Switzer<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <p>Partly (as he ſays) out of curioſity to en<g ref="char:EOLhyphen"/>quire into the Preſent State of the Frontiers of <hi>Germany</hi> and <hi>France:</hi> And</p>
+            <p>Partly to inform himſelf, if poſſible, by Mon<g ref="char:EOLhyphen"/>ſieur <hi>Amelot</hi> the <hi>French</hi> Ambaſſador in <hi>Switzer<g ref="char:EOLhyphen"/>land,</hi> of the King his Maſter's Intention concerning a General Peace in <hi>Europe.</hi>
+            </p>
+            <p>That by both theſe Deſigns (as he farther ſays) he has had no other aim than to acquire
+<pb n="2" facs="tcp:57900:3"/>more Knowledge and Experience by which he might regulate his Conduct to the beſt advan<g ref="char:EOLhyphen"/>tage of the Publick, and to a fuller diſcharge of his Duty in the adminiſtration of the Affairs of his Country.</p>
+            <p>That the Priſoner, being arriv'd at <hi>Solethur<g ref="char:EOLhyphen"/>ne</hi> in <hi>Switzerland,</hi> had addreſs'd himſelf to the foremention'd <hi>Amelot;</hi> asking him,</p>
+            <p n="1">1ſt. If he was able to give him any informa<g ref="char:EOLhyphen"/>tion of the King his Maſter's Intention about a General Peace.</p>
+            <p n="2">2dly. If his Maſter was inclinable to deliver up ſome conſiderable Frontiers to ſecure the <hi>Spaniſh</hi> Netherlands, and this Country.</p>
+            <p>That the ſaid Ambaſſador had anſwer'd him to both in the affirmative; but telling him alſo, that he was not able, nor impower'd to give him any Particular; that this was work for a Treaty; but yet if the Priſoner would be pleaſed to ſtay there ſome time, then he (the Ambaſſador) would write to Court, and give him certainly a poſitive Anſwer.</p>
+            <p>That he had replied, That it was not conve<g ref="char:EOLhyphen"/>nient for him to ſtay there any longer, to pre<g ref="char:EOLhyphen"/>vent ſeveral Reflections.</p>
+            <p>That the ſaid Ambaſſador having ask'd him, Who he was, and if he had any Relations and
+<pb n="3" facs="tcp:57900:3"/>Friends in the Government; the Priſoner an<g ref="char:EOLhyphen"/>ſwered him, That his Name was <hi>Simon van Halewyn;</hi> that he was Burgher-Maſter Senior of the City of <hi>Dort;</hi> and that he had a Brother who had yet a greater power in the Govern<g ref="char:EOLhyphen"/>ment.</p>
+            <p>That the ſaid <hi>Amelot</hi> during their Converſati<g ref="char:EOLhyphen"/>on, having ask'd him further, What ſucceſs he thought that King <hi>James</hi> might have had in his intended Deſcent, in caſe the <hi>French</hi> had not been beaten at Sea? the Priſoner anſwer'd him, That it would have been a very weak Enter<g ref="char:EOLhyphen"/>prize, conſidering the general averſion the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> had for King <hi>James.</hi>
+            </p>
+            <p>That the Priſoner to refute ſome Arguments which <hi>Amelot</hi> had made uſe of to ſhow how much this State ought to deſire a Peace, told him; That it was true enough, that the moſt conſiderable Families of our Country ſuffered very much by heavy Taxes, as having great E<g ref="char:EOLhyphen"/>ſtates in Land, which carried the greateſt Bur<g ref="char:EOLhyphen"/>then; but that the Merchants were very gently treated for the benefit of Trade; that the Taxes on real Eſtates could cauſe at the worſt but a change of their Maſters, which did not at all concern the State in general, and conſidered <hi>in abſtracto;</hi> adding withal, in order to the clearer
+<pb n="4" facs="tcp:57900:4"/>proof, that the preſent War did not leſſen the Power of the State; that although there were ſome loſſes in Trade on one hand, yet that they were repair'd on the other, by a conſide<g ref="char:EOLhyphen"/>rable Sale of the Manufacturies; and that it was certain that there were much more Ships built now, than before the War.</p>
+            <p>That even their Loſſes at Sea did not incom<g ref="char:EOLhyphen"/>mode them very much, ſince the greateſt part of their Ships and Cargo were inſured; and that it was in vain to imagine that there was no dif<g ref="char:EOLhyphen"/>ference if the Loſs were ſuſtained by the Pro<g ref="char:EOLhyphen"/>prietors or Inſurers, becauſe the latter ſufficient<g ref="char:EOLhyphen"/>ly repairs it, by what they gain'd from Ships that ſafely arriv'd in the Harbour; and that the reſult of all was, that thoſe who ſtood in need of the Goods, were to pay a greater price for them.</p>
+            <p>Theſe and ſeveral other Arguments the Pri<g ref="char:EOLhyphen"/>ſoner avers that he made uſe of, in order to ex<g ref="char:EOLhyphen"/>aggerate the power of the State.</p>
+            <p>The Priſoner ſays farther, That the ſaid <hi>A<g ref="char:EOLhyphen"/>melot</hi> having ask'd him if there were ſome grounds to hope, that ſome of thoſe that were at the Helm of the Government, were inclina<g ref="char:EOLhyphen"/>ble to a peace? he anſwered him, that this did depend upon the particulars of the Propoſals
+<pb n="5" facs="tcp:57900:4"/>relating to it; and that except ſome conſidera<g ref="char:EOLhyphen"/>ble Frontier places were delivered up to the <hi>Spa<g ref="char:EOLhyphen"/>niſh Netherlands,</hi> there was no true <hi>Dutch man</hi> who would not rather ſacrifice the laſt <hi>Slyver</hi> he had, than to think of a peace.</p>
+            <p>That after ſome other Diſcourſe, the Priſo<g ref="char:EOLhyphen"/>ner agreed with the ſaid <hi>Amelot,</hi> that he the ſaid <hi>Amelot</hi> was to ſend him ſome body to let him know by word of mouth an anſwer of the two above mentioned Queſtions, and that a printed Book ſhould be ſent to the Priſoner as a Token that the King did continue in his Inclination for a general peace, and that a Meſſenger ſhould follow.</p>
+            <p>That they had further agreed, that the Priſo<g ref="char:EOLhyphen"/>ner, as a Token that he had receiv'd the Book, ſhould ſend a Letter of Trade to one <hi>Hande<g ref="char:EOLhyphen"/>court,</hi> living at <hi>Paris</hi> in St. <hi>Honore-Street,</hi> at the Sign of the Arms of <hi>England,</hi> which ſhould al<g ref="char:EOLhyphen"/>ſo ſerve for an Advertiſement that he was ar<g ref="char:EOLhyphen"/>riv'd in the Country.</p>
+            <p>That the Priſoner told the ſaid <hi>Amelot,</hi> that whereas he might perhaps make a <hi>tour</hi> into <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> it would be neceſſary to let him know what time a Meſſenger would be ſent him, for fear of his being diſappointed; and that to aſſure him the Letter came from Monſieur
+<pb n="6" facs="tcp:57900:5"/>
+               <hi>Amelot,</hi> a certain Mark ſhould be put upon the outſide of it.</p>
+            <p>That according to theſe concerted Meaſures, the Priſoner receiv'd laſt Harveſt the ſaid print<g ref="char:EOLhyphen"/>ed Book, with two Letters of a different date; one of which gave him notice, that he was to receive the ſaid Book, and the other was ac<g ref="char:EOLhyphen"/>companied with it.</p>
+            <p>That the ſaid Letters were ſign'd <hi>Finberlon,</hi> which the Priſoner judg'd to be a fictitious Name; that he ſhew'd them to no body, and burn'd them a little time after the receipt of them.</p>
+            <p>That the Priſoner had ſent a Letter to the ſaid <hi>Handecourt,</hi> of which the following Copy was ſeizd amongſt his Papers.</p>
+            <p>
+               <hi>I'Ay bien receu vas deux lettres, datées de I' on<g ref="char:EOLhyphen"/>zieme et quinzieme de ce mois, je tacheray a faire vendre vos actions de Novembre, ſelon les ordres que vous m'y donnez. Je voudrols que vous me pou<g ref="char:EOLhyphen"/>viez envoyer au plutoſt mon conte, car il faut que l'ajuſte icy mes Affaires, avant que je puiſſe faire mon voyage d'Angleterre, qui preſſe d'autant plus que les bleds montent icy àa un prix exceſſif, &amp; ſi on y veut faixe le negoce, que nous avons proſetté, it faut qu'on le faſſe au plutoſt, car pour faire un achapt vonſi<g ref="char:EOLhyphen"/>derable
+<pb n="7" facs="tcp:57900:5"/>en detail it faut du temps pour prendre ſes me<g ref="char:EOLhyphen"/>ſures, et ſi on ne le fait pas en detail, il n'y arien à gagner.</hi>
+            </p>
+            <p>The ſame in <hi>Engliſh.</hi>
+            </p>
+            <p>
+               <q>I Have receiv'd your Two Letters, dated the 11th and 15th of this Month. I'll endeavour to ſell your Actions of <hi>Novembre</hi> according to your Orders; and I wiſh you would ſend me ſpeedily my Accounts, for I would fain adjuſt my Affairs here before I go into <hi>England,</hi> which cannot be put off very long, conſidering the exceſſive Rate that Corn is riſen to, and ſold at here; and if we will trade in it according to our Project, we muſt do it ſpeedily, becauſe there is much time required to buy a conſiderable Quantity by Parcels, and if it be not done by Parcels, nothing is to be won.</q>
+            </p>
+            <p>The Priſoner ſays, That he had diſguis'd his hand in this Letter, and put a falſe Name to it, becauſe he was willing to avoid the Offence, which in caſe of diſcovery it would have given to thoſe that did not like he buſineſs.</p>
+            <pb n="8" facs="tcp:57900:6"/>
+            <p>He adds, That by theſe words in the Let<g ref="char:EOLhyphen"/>ter; <hi>Je voudrois que vous me pourriez envoyer au plutoſt mon conte.</hi> (I wiſh you would ſend me ſpeedily my Accounts). He underſtood the Perſon that was to be ſent to him; and that by the following words, he did not underſtand the buſineſs of a Peace, the gaining of Friends, and the working out of that Peace.</p>
+            <p>That afterwards, according to his agree<g ref="char:EOLhyphen"/>ment with Monſieur <hi>d<g ref="char:punc">▪</g>Amelot,</hi> a certain <hi>French</hi>-man, nam'd <hi>Roberti de Pillé du Pleſſis,</hi> being arriv'd at <hi>Dort,</hi> had met him there in an Inn, call'd the <hi>Logement van de heeren.</hi> That the ſaid <hi>French</hi>-man askt the Priſoner, if he was the Man that had been with Monſieur <hi>d' Amelot</hi> in <hi>Switzerland,</hi> and whether he had receiv'd the formention'd Book; and he having aſſur'd him of both, the ſaid <hi>Roberti</hi> diſcover'd himſelf to him, and acquainted him with the reaſons of his coming.</p>
+            <p>That the Priſoner having askt the ſaid <hi>Ro<g ref="char:EOLhyphen"/>berti</hi> what Conditions he had to propoſe for a Peace: The ſaid <hi>Roberti</hi> anſwer'd him, That he had no orders to make any overture of it, and that at that time he was far from giving any Sa<g ref="char:EOLhyphen"/>tisfaction about the Queſtions the Priſoner had propoſed to <hi>Amelot:</hi> The ſaid <hi>Roberti</hi> on the
+<pb n="9" facs="tcp:57900:6"/>other hand ask'd him, Whether the Priſoner had any thing to propoſe to him relating to a Peace with this State and its Allies? To which the Priſioner reply'd, he had not; that it was contrary to the Agreement made with Monſieur <hi>Amelot,</hi> who had promis'd to inform him what Sentiments the Court of <hi>France</hi> had about a Ge<g ref="char:EOLhyphen"/>neral Peace; and that thereupon having preſt the ſaid <hi>Roberti</hi> to endeavour to ſee himſelf put in a condition of giving the Priſoner ſome ſa<g ref="char:EOLhyphen"/>tisfaction about the ſaid point, the ſaid <hi>Ro<g ref="char:EOLhyphen"/>berti</hi> promiſed him, that he would not fail to do it.</p>
+            <p>That after ſome time the Priſoner having askt the ſaid <hi>Roberti</hi> whether he had receiv'd an Anſwer of a Letter which he had promiſed to write into <hi>France,</hi> in order to know the Propo<g ref="char:EOLhyphen"/>ſals the Court of <hi>France</hi> was willing to make for a Peace; the ſaid <hi>Roberti</hi> anſwered him (as he ſays) that he had both writ, and received an An<g ref="char:EOLhyphen"/>ſwer about it, which was, That the Court did not think fit to explain her ſelf about the Particulars before ſhe knew what ſucces Monſieur <hi>d'Avaux</hi> would meet with at the Court of the King of <hi>Sweden,</hi> whom he was to entreat to offer his me<g ref="char:EOLhyphen"/>diation for a Peace between the <hi>Confederates</hi> and <hi>France.</hi> And that ſince that time the Priſoner
+<pb n="10" facs="tcp:57900:7"/>did remain in theſe Terms with the ſaid <hi>Ro<g ref="char:EOLhyphen"/>berti.</hi>
+            </p>
+            <p>That the Priſoner went afterwards with the ſaid <hi>Roberti</hi> to a Countrey-houſe of his at <hi>Ab<g ref="char:EOLhyphen"/>benbroeck,</hi> where they remain'd two or three days together.</p>
+            <p>That during their ſtay there, the ſaid <hi>Ro<g ref="char:EOLhyphen"/>berti</hi> having told the Priſoner, by way of diſ<g ref="char:EOLhyphen"/>courſe, that he could not comprehend the form of the Government of this State; the Priſoner explain'd it to him, as alſo that of the City of <hi>Dort</hi> in particular, which the Priſoner ſaid, was yet more intricate.</p>
+            <p>That in recompence of it, the ſaid <hi>Roberti</hi> in<g ref="char:EOLhyphen"/>form'd the Priſoner of the preſent State of Af<g ref="char:EOLhyphen"/>fairs in <hi>France.</hi>
+            </p>
+            <p>The Priſoner ſays, that he had no other De<g ref="char:EOLhyphen"/>ſign in carrying the ſaid <hi>Roberti</hi> to his Country-houſe, but to diſcourſe with him about the Ar<g ref="char:EOLhyphen"/>chitecture of a Houſe he was building there.</p>
+            <p>He proteſts, that he had never askt any Mo<g ref="char:EOLhyphen"/>ney of the ſaid <hi>Roberti,</hi> but that riding from <hi>Abbenbroeck,</hi> and being near the Sluce, the ſaid <hi>Roberti</hi> had offered him a conſiderable Sum for the better carrying on of his Building.</p>
+            <p>That the Priſoner having refus'd the accep<g ref="char:EOLhyphen"/>tance of it, by telling him: <hi>Que ſes petites af<g ref="char:EOLhyphen"/>faires
+<pb n="11" facs="tcp:57900:7"/>n'avoient pas beſoin de ce ſecours,</hi> i. e. That his ſmall Affairs did not ſtand in need of ſuch a Supply, the ſaid <hi>Roberti</hi> replied: <hi>Que ſi ce n'eſtoit pas pour le batimêt, que ce fut donc pour la petite oye,</hi> i. e. That if it was not for his Building, it ſhould be for his little Pleaſures.</p>
+            <p>He further adds, That at the ſame time the ſaid <hi>Roberti</hi> offered him this Money, the Pri<g ref="char:EOLhyphen"/>ſoner told him, that he lookt upon it as a great piece of Villany to accept of any Bribe. That he had always wondered, that in the former Wars ſome had been found here, who had been ſo far warp'd and corrupted by it, as to abandon the general intereſt of <hi>Europe;</hi> and al<g ref="char:EOLhyphen"/>though he had no averſion to the receiving of an honeſt Recompence from thoſe from whom he might lawfully receive it, yet that he hated all Bribes.</p>
+            <p>That ſince that time, the Priſoner has had ſeveral other enter views with the ſaid <hi>Roberti,</hi> wherein he always told him, that whereas the Court of <hi>France</hi> might eaſily have imagined, that he had not deſired any one ſhould be ſent him to treat about indifferent Matters, but a<g ref="char:EOLhyphen"/>bout the agreement of ſome favourable Con<g ref="char:EOLhyphen"/>ditions for a Peace, he was willing to let him know, That as ſoon as he ſhould be aſſured of
+<pb n="12" facs="tcp:57900:8"/>the <hi>French</hi> King's Inclination for a Peace, he was inclinable to make an overture of it to the Ma<g ref="char:EOLhyphen"/>giſtracy of the City of <hi>Dort,</hi> who ſhould afterwards propoſe it to the Aſſembly of the States of <hi>Holland,</hi> that ſo in due time it might be taken into their mature Conſideration.</p>
+            <p>And although the Priſoner confeſſes that he had peruſed the Articles of the Treaty conclu<g ref="char:EOLhyphen"/>ded between this State and the Confederates, by which an Agreement was made, on what grounds a Peace was to be concluded; that no Treaty about it ought to be ſet on foot with<g ref="char:EOLhyphen"/>out a general Concurrence, and that every one of them ſhould acquaint the other with what might happen to them in particular, that ſhould tend towards it: Yet he alledges in his De<g ref="char:EOLhyphen"/>fence,</p>
+            <p>That a Declaration of War does only pro<g ref="char:EOLhyphen"/>hibit an unlawful Correſpondency to the preju<g ref="char:EOLhyphen"/>dice of the State.</p>
+            <p>That it is agreed on all hands, That to en<g ref="char:EOLhyphen"/>deavour to procure a Peace, is not at all pre<g ref="char:EOLhyphen"/>judicial to the State; that it is ſo far from that, that thoſe who employ themſelves about ſome honeſt means of obtaining it, ſhould be lookt upon as Criminals, that they rather de<g ref="char:EOLhyphen"/>ſerve to have a Stature erected them, and that
+<pb n="13" facs="tcp:57900:8"/>he was willing to do it, tho it was at the peril of his Life.</p>
+            <p>Afterwards having deſired leave to ſpeak with freedom, the Priſoner ſaid, That being before the High Court of Juſtice of his Coun<g ref="char:EOLhyphen"/>try, he had a great mind to convince them, that it was none of his fault, that Lives and Eſtates were ſacrific'd to men; and that he would ra<g ref="char:EOLhyphen"/>ther dye, than ſee it longer continued, and to play on <hi>dobbe dobbe dob,</hi> and <hi>fan fare</hi> for the King of <hi>England.</hi>
+            </p>
+            <p>Whereupon being ordered to retire, the words were recorded by the Clerk; and the Priſoner being call'd in again, and the words read to him, he was askt if they did not exact<g ref="char:EOLhyphen"/>ly correſpond with what he had ſaid; to which he anſwered, That he was not able to repeat the very ſame words, which he had ſpoke in the heat of his Defence; but that his meaning was, That he thought it was ſo far from a man's being lookt upon as a Criminal to the State, for endeavouring by honeſt means to promote a Peace, that he rather de<g ref="char:EOLhyphen"/>ſerved to be commended for it; and that he ſhould ſooner wiſh to dye this very moment, than ſee things reduced to ſuch Extremities.</p>
+            <pb n="15" facs="tcp:57900:9"/>
+            <p>That he had never had ſo ridiculous a pre<g ref="char:EOLhyphen"/>ſumption of his own capacity, as to think him<g ref="char:EOLhyphen"/>ſelf able, nor that indeed he had been wil<g ref="char:EOLhyphen"/>ling to procure a Peace, a work of ſo great con<g ref="char:EOLhyphen"/>ſequence, againſt the general Opinion and the Sentiments of others; but that he thought that in caſe ſome ſolid and reaſonable Propoſals of peace ſhould be offered, it being a thing ſo neceſſary and ſo ſalutary for this State, that every true Patriot would have readily, without any other reaſon, have embrac'd them; the Priſoner withal aſſuring his Judges, that what Steps ſoe<g ref="char:EOLhyphen"/>ver he had made in this Affair, they were oc<g ref="char:EOLhyphen"/>caſion'd by nothing elſe but a ſincere Inten<g ref="char:EOLhyphen"/>tion of his to promote the true Intereſt of this State.</p>
+            <p>That, in fine, the Priſoner at a time when ſome ſuſpected perſons, who were ſeized at the <hi>Hague,</hi> at the Sign of the King of <hi>Spain,</hi> had wrote a Letter to the ſaid <hi>Roberti</hi> at <hi>Amſterdam</hi> without either Name or Date, and having his Hand diſguis'd therein, with the following Con<g ref="char:EOLhyphen"/>tents: <hi>On vient de me dire que l' hoſte au Roy d' Eſ<g ref="char:EOLhyphen"/>pagne &amp; quelques Eſpions ſont arreſtez c' eſt à vous à prendre vos meſures.</hi> I am juſt now inform'd that the Landlord and ſeveral Spies, lodging at the Sign of the King of <hi>Spain,</hi> have been ſeiz'd.
+<pb n="14" facs="tcp:57900:9"/>It belongs to you to take your Meaſures accor<g ref="char:EOLhyphen"/>dingly.</p>
+            <p>That by this he would have given the ſaid <hi>Roberti</hi> to underſtand, that poſſibly ſome ſearch might be made after him too, and that he had endeavour'd to prevent the finding out of the Correſpondency which he entertained with the ſaid <hi>Roberti.</hi>
+            </p>
+            <p>The Priſoner confeſſing that he had under<g ref="char:EOLhyphen"/>taken all this without giving notice of it to any body, and without being empowered by any of the Princes now in Confederacy with this State, either to make, or to receive any overture for a general Peace.</p>
+            <p>All which being oppoſite to the Duty of a good Subject, much more to that of a Magi<g ref="char:EOLhyphen"/>ſtrate, and moſt of all directly contrary to the concluded Treaties, as alſo to the ſeveral Pro<g ref="char:EOLhyphen"/>clamations of the State, which expreſly had forbidden all Subjects whatſoever of this Coun<g ref="char:EOLhyphen"/>try, to entertain any correſpondency or com<g ref="char:EOLhyphen"/>merce directly or indirectly, either by Letters or other means, tending to the prejudice of this Country, with <hi>France</hi> or its Subjects, upon pain of being proceeded againſt as declared E<g ref="char:EOLhyphen"/>nemies of the State, and they being beſides things of an ill aſpect, and of a dangerous
+<pb n="16" facs="tcp:57900:10"/>conſequence, deſerving to be highly puniſh'd for the Example of others:</p>
+            <p>
+               <hi>For theſe Reaſons,</hi>
+            </p>
+            <p>The ſaid Court, after a mature deliberati<g ref="char:EOLhyphen"/>on, and a full examination of all things rela<g ref="char:EOLhyphen"/>ting to this Affair, adminiſtring Juſtice, in the Name, and by the Authority of the <hi>Supream Magiſtracy</hi> and Lordſhip of <hi>Holland, Zealand,</hi> and <hi>Friezland,</hi> has condemn'd the ſaid Priſoner, and does condemn him by theſe Preſents, To be carried to a ſecure place, to remain a Priſoner there during life, declaring alſo all his Goods and Eſtate to be confiſcated for the uſe of the Supream Magiſtracy, and condemning him be<g ref="char:EOLhyphen"/>ſides to the payment of all Expences of Juſtice, according to the Eſtimate of the ſaid Court. <hi>Actum</hi> in the <hi>Hague</hi> by our Lords and Maſters, <hi>Matthews Gool, Benjamin Fagel,</hi> Seigneur <hi>Vander Weer, John Munter, Francis Keetlaer, Paul Andrew vandr Meulen, Charles Filips van Dorp, Iman Cau; Anthony Slicher,</hi> and <hi>Frederick Rooſenboom,</hi> Sena<g ref="char:EOLhyphen"/>tors of <hi>Holland,</hi> and pronounc'd <hi>July</hi> the 31ſt, 1693.</p>
+            <closer>
+               <signed>Sign'd, <hi>Ant. van Kinſchot. Robert</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="account">
+            <pb n="17" facs="tcp:57900:10"/>
+            <head>
+               <hi>Robert de Pille du Bleſſis</hi>'s SENTENCE, Pronounc'd by the Court of <hi>Holland, Zeeland</hi> and <hi>Friezland, July</hi> the 31ſt, 1693.</head>
+            <p>VVHereas <hi>Robert de Pille du Pleſſis,</hi> ſe<g ref="char:EOLhyphen"/>ven and fifty Years old, born at <hi>Clamſy</hi> in <hi>Burgundy,</hi> at preſent Priſoner at the Gatehouſe of the Court of <hi>Hol<g ref="char:EOLhyphen"/>land</hi> has confeſt without Torture, and being without Iron-Fetters,</p>
+            <p>That he has been ſent hither by the <hi>French</hi> King laſt Year, to treat about a Peace.</p>
+            <p>That he has receiv'd ſome Inſtructions about it by the <hi>French</hi> King, but that having read them over and over again, and conſequently knowing the Contents of it by heart, he had burnt the Written Copy at <hi>Mons,</hi> partly be<g ref="char:EOLhyphen"/>cauſe he did not think it ſafe paſſing through an
+<pb n="18" facs="tcp:57900:11"/>Enemies Country, to keep it about him, partly to execute the Orders which he at parting re<g ref="char:EOLhyphen"/>ceiv'd from that Court.</p>
+            <p>That at <hi>Mons</hi> he had receiv'd a Paſport from the Elector of <hi>Bavaria,</hi> which the Governor of that place had obtain'd for him under the Name of <hi>Robert du Ploſſis,</hi> Picture Drawer.</p>
+            <p>That he had alſo been provided with a Paſs<g ref="char:EOLhyphen"/>port from Monſieur <hi>dei Neuf ville</hi> Envoy of the King of <hi>Poland</hi> at the Court of <hi>France,</hi> con<g ref="char:EOLhyphen"/>taining amongſt other things, that he was a dealer in Pictures, going into <hi>Poland</hi> in order to carry to that King ſome Pictures, which he had bought for him by his Orders.</p>
+            <p>That with theſe Paſsports he arrived in the <hi>Spaniſh Netherlands,</hi> from whence he came to the <hi>Hague</hi> in <hi>January</hi> laſt, without any Paſsport from this State.</p>
+            <p>That according to his Orders receiv'd from the Court of <hi>France,</hi> he had addreſs'd himſelf to the Burgher-Maſter Senior, <hi>Simon van Halewyn,</hi> asking him, If he was not the perſon that had been with Monſieur <hi>Amelot</hi> in <hi>Switzerland;</hi> and having afterwards told the ſaid Burgher-Maſter who he was, and the reaſon of his coming, he had ask'd the ſaid Burgher-Maſter, if he had not receiv'd a little Book as a Token that ſome body ſhould be ſent to him.</p>
+            <pb n="19" facs="tcp:57900:11"/>
+            <p>That the ſaid Burgher-Maſter having an<g ref="char:EOLhyphen"/>ſwer'd him in the Affirmative, the Priſoner had further ask'd him whether he had any Propo<g ref="char:EOLhyphen"/>ſals to make relating to a Peace.</p>
+            <p>That the ſaid <hi>Halewyn</hi> had anſwered him (as the Priſoner pretends) that it was not time yet, that the face of Affairs was chang'd, and that the Priſoner muſt allow him ſome time to take ſome new Meaſures.</p>
+            <p>That he had thereupon ask'd the ſaid <hi>Ha<g ref="char:EOLhyphen"/>lewyn</hi> (as he ſays) if there was then no hopes left, and if it was fit for him to depart; <hi>Ha<g ref="char:EOLhyphen"/>lewyn</hi> had anſwer'd him, No, but that he ſhould wait ſome time to ſee if ſome favourable oppor<g ref="char:EOLhyphen"/>tunity, and ſome good Diſpoſition in the State ſhould offer it ſelf.</p>
+            <p>That he had talk'd at ſeveral times and pla<g ref="char:EOLhyphen"/>ces with the ſaid <hi>Simon van Halewyn,</hi> and con<g ref="char:EOLhyphen"/>certed within ſeveral Meaſures about this Affair.</p>
+            <p>That after their firſt enterview, they had met at ſeveral times at the <hi>Voorhout,</hi> a place be<g ref="char:EOLhyphen"/>fore the Court at the <hi>Hague;</hi> and that about a Month ago being come to the ſame place about Seven a Clock at Night, according to the ſaid <hi>Halewyn</hi>'s Aſſignation, the ſaid <hi>Halewyn</hi> had told him, That he had a written Project about him, but that he had refus'd to deliver it
+<pb n="20" facs="tcp:57900:12"/>to him, nor to truſt any body with it, becauſe he had writ it with his own Hand.</p>
+            <p>That the ſaid <hi>Halewyn</hi> had carried the Priſoner to the <hi>Ouden doole,</hi> where he had dictated to him the ſaid Project.</p>
+            <p>That the ſaid <hi>Halewyn</hi> had brought with him to that purpoſe ſome Paper, but finding no Ink there, the Priſoner had found himſelf oblig'd to write it into his Tables.</p>
+            <p>That the ſaid <hi>Halewyn</hi> after having dictated to him the ſaid Project, had burnt the Original of it.</p>
+            <p>That afterwards the Priſoner having told the ſaid <hi>Halewyn,</hi> that tho they were in a Tavern that yet they had drunk no Wine, and that peo<g ref="char:EOLhyphen"/>ple might very well ſuſpect they were come thither for ſome other purpoſe than to drink, the ſaid <hi>Halewyn</hi> had pour'd out ſome Wine upon the Floor, and into the Chimney.</p>
+            <p>That the Priſoner has ſent the ſaid Project in a Letter into <hi>France</hi> the 19th of <hi>February</hi> laſt, the Contents of which are,</p>
+            <p>That to prepare things for a Peace, it would be neceſſary to engage the King of <hi>Sweden</hi> to of<g ref="char:EOLhyphen"/>fer his Mediation about it to his Majeſty of <hi>Great-Britain</hi> and this State.</p>
+            <pb n="21" facs="tcp:57900:12"/>
+            <p>That there ſhould by no means be made any Propoſals of it, before they were aſſured that theſe Provinces were in a Humonr to accept it.</p>
+            <p>That the means to bring them to it, were to endeavour ſecretly and cunningly to give a full proſpect to thoſe that had the greateſt Intereſt and Authority with the Deputies of this State, of the ſad Conſequences that would attend a fur<g ref="char:EOLhyphen"/>ther Continuation of this War, to all the States in General, and to each in Particular, mana<g ref="char:EOLhyphen"/>ging every body according to his Humour and Inclination.</p>
+            <p>That altho they were ſenſible enough of the Inconveniencies of the War, that yet this was not ſufficient, but that it was neceſſary to gain ſome Deputies that would undertake to animate the reſt by ſome bold Example.</p>
+            <p>That no body was more proper for it than the two Brothers, <hi>Halewyn,</hi> as being Perſons of great Credit, and of a competent Knowledge of Affairs.</p>
+            <p>That over and above, the City of <hi>Dort,</hi> who had the firſt Vote of all other Places, might by her Advice, and manner of proceed<g ref="char:EOLhyphen"/>ing, teach others that were more timerous to deſpiſe the hatred of thoſe that were not pleas'd with it.</p>
+            <pb n="22" facs="tcp:57900:13"/>
+            <p>That after the Two Brothers had been gain'd, and the King of <hi>Sweden</hi> diſpoſed to the offering of his Mediation, that then the Memorial which was to be preſented about it to the States-General, ſhould be concerted with the ſaid Two Perſons, who beſt knew how to humour it.</p>
+            <p>That after this Memorial was preſented to the States-General, and receiv'd by the ſaid Provinces, and conſequently brought into <hi>Holland,</hi> that then the reſpective Deputies ſhould take it into their Conſideration, except thoſe of the City of <hi>Dort,</hi> who ſhould inſtant<g ref="char:EOLhyphen"/>ly declare that they had already embrac'd it, that the other Deputies might acquaint their Principals with it.</p>
+            <p>That to this purpoſe, it was neceſſary to gain the Eldeſt of the ſaid Brothers by ſome Intereſt of Family, and to render them Maſters in the ſaid City of <hi>Dort,</hi> which being govern'd by a Commonalty might be eaſily appeas'd with words alone.</p>
+            <p>Theſe the Priſoner ſays, were the Content of the Project, altho the ſaid <hi>Simon van Halewyn</hi> expreſly denies to know the leaſt thing of it and that the Priſoner proteſts, That <hi>Simon van Halewyn</hi> has always told him, that his Brother
+<pb n="23" facs="tcp:57900:13"/>had not the leaſt knowledge of it, nor that the Priſoner has ever talkt with the Eldeſt <hi>Halewyn,</hi> or any other Perſon.</p>
+            <p>That the Priſoner has further declared to the Court, That he has ſent ſeveral other Letters to the Court of <hi>France</hi> relating to this Affair, and eſpecially one dated <hi>Febr.</hi> 13. 1693. by which he had inform'd that Court that <hi>Si<g ref="char:EOLhyphen"/>mon Van Halewyn</hi> had told him, That the two Joint-Fleets were to be Reinforced by a Squa<g ref="char:EOLhyphen"/>dron of Thirty Men of War.</p>
+            <p>That altho the Priſoner had denied to have offered any Sum of Money to the ſaid <hi>Halewin,</hi> yet that he has confeſt, That taking a walk with him at <hi>Abbenbroeck,</hi> and talking about his Building, he had ſaid to the ſaid <hi>Halewyn,</hi> up<g ref="char:EOLhyphen"/>on his own account only, and by way of Com<g ref="char:EOLhyphen"/>pliment, That the King his Maſter was rich enough to offer him a little Preſent to the pro<g ref="char:EOLhyphen"/>moting of his Building, but that it ſeem'd the ſaid <hi>Halewyn</hi> had made no Reflections on it.</p>
+            <p>That nevertheleſs; the Priſoner had writ into <hi>France</hi> for Money, and that thereupon he had been imprower'd by the <hi>French</hi> King in a Letter dated the 4th of <hi>March</hi> laſt, (which was intercepted during his Impriſonment) to pro<g ref="char:EOLhyphen"/>miſe to <hi>Simon van Halewyn,</hi> the Sum of Twen<g ref="char:EOLhyphen"/>ty
+<pb n="24" facs="tcp:57900:14"/>thouſand Crowns, in caſe he could by his Credit, and that of his Friends, perſuade the City of <hi>Dort,</hi> to give ſuch an Example to tho other Cities in <hi>Holland,</hi> that thereupon a Peace might enſue.</p>
+            <p>All which being, ſuch Proceedings, as in no Country where there is any Juſtice, ought to be ſuffered, as tending to the Deſtruction of the General Quiet and Tranquility of the State, and the cauſing ſome Difference and Animoſity (if poſſible) between the Confederates and this State; and conſequently deſerving Puniſhment for an Example to others:</p>
+            <p>
+               <hi>For theſe Reaſons,</hi>
+            </p>
+            <p>The ſaid Court, after a mature Deliberation, and ſerious Examination of all Matters relating to this Affair, adminiſtring Juſtice in the Name, and by the Authority of the <hi>Supreme Magiſtracy</hi> and Lordſhip of <hi>Holland, Zealand,</hi> and <hi>Friez<g ref="char:EOLhyphen"/>land,</hi> has condemn'd the ſaid Priſoner, and does condemn him by theſe Preſents, To be carried to a ſecure Place, where he is to remain Pri<g ref="char:EOLhyphen"/>ſoner during this War, and to be kept on his own Expences; and does Baniſh him out of <hi>Holland, Zealand, Friezland,</hi> and <hi>Utrecht,</hi> with<g ref="char:EOLhyphen"/>out Liberty of returning thereto under pain of
+<pb n="25" facs="tcp:57900:14"/>a ſeverer Puniſhment, declares all his Goods confiſcated to the profit of the Supream Magi<g ref="char:EOLhyphen"/>ſtracy, and condemns him beſides to all the Expences of Juſtice, according to the Eſtimate of the ſaid Court. <hi>Actum</hi> at the <hi>Hague</hi> by our Lords and Maſters, <hi>Matthews Gool, Benjamin Fagel,</hi> Seigneur <hi>Van Fer-Weer, John Munter, Francis Keetlaer, Paul Andrew van der Meulen, Charles Philips van Dorp, Iman Cau, Anthony Slicher,</hi> and <hi>Frederick Rooſenboom,</hi> Senators of <hi>Holland,</hi> and pronounc'd <hi>July</hi> the 31ſt, 1693.</p>
+            <closer>
+               <signed>Sign'd, <hi>Ant. van Kinſchot.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>
+               <hi>Books Sold by</hi> Richard Baldwin.</head>
+            <p>A New, Plain, Short, and Compleat <hi>French</hi> and <hi>Engliſh</hi> Grammar; whereby the Learner may attain in few Months to ſpeak and write <hi>French</hi> correctly, as they do now in the Court of <hi>France.</hi> And wherein all that is dark, ſuperfluous and deficient in other <hi>Grammars,</hi> is plain, ſhort, and methodically ſupplied. Alſo very uſeful to <hi>Strangers,</hi> that are deſi<g ref="char:EOLhyphen"/>rous to learn the <hi>Engliſh</hi> Tongue: For whoſe ſake is added a Short, but very Exact <hi>Engliſh</hi> Grammar. The Third Edition, with Additions. By <hi>Peter Berault.</hi>
+            </p>
+            <p>A Brief Diſquiſition of the Law of Nature, according to the Principles and Method laid down in the Reverend Dr. <hi>Cumberland</hi>'s (now Lord Biſhop of <hi>Peterborough</hi>'s) <hi>Latin</hi> Treatiſe on that Subject. As alſo his Confutation of Mr. <hi>Hobb</hi>'s Principles put into another Method. With the Right Reve<g ref="char:EOLhyphen"/>rend Author's Approbation.</p>
+            <p>The Tragedies of the <hi>Laſt Age,</hi> conſider'd and examin'd by the Practice of the Ancients, and by the common Senſe of all Ages; in a Letter to <hi>Fleetwood Shephard,</hi> 
+               <abbr>Eſq</abbr> The Second Edition.</p>
+            <pb facs="tcp:57900:15"/>
+            <p>A ſhort View of Tragedy; its Original, Excellency, and Corruption<g ref="char:punc">▪</g> With ſome Reflections on <hi>Shakeſpear</hi> and other Practitioners for the Stage Both by Mr. <hi>Rymer</hi> Servant to Their Majeſties.</p>
+            <p>Travels into divers Parts of <hi>Europe</hi> and <hi>Aſia,</hi> undertaken by the <hi>French</hi> King's Order to diſcover a new Way by Land into <hi>China;</hi> containing many curious Remarks in Natural Philoſophy, Geography, Hydrography and Hiſtory. Together with a Deſcription of <hi>Great Tartary,</hi> and of th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> different People who inhabit there. Done out of <hi>French.</hi> To which is ad<g ref="char:EOLhyphen"/>ded, A Supplement extracted from <hi>Hakluyt</hi> and <hi>Purohas;</hi> giving an Ac<g ref="char:EOLhyphen"/>count of ſeveral Journeys over Land from <hi>Ruſſia, Perſia,</hi> and the <hi>Mogul</hi> Country to <hi>China,</hi> together with the Roads and diſtances of the Places.</p>
+            <p>
+               <hi>Liturgia Tigurina:</hi> Or, The Book of Common Prayer and Adminiſtrati<g ref="char:EOLhyphen"/>on of the Sacraments, and other Eccleſiaſtical Rites and Ceremonies, uſu<g ref="char:EOLhyphen"/>ally practiſed, and ſolemnly performed in all the Churches and Chappels of the City and Canton of <hi>Zurick</hi> in <hi>Switzerland, &amp;c.</hi>
+            </p>
+            <p>Memoirs concerning the Campaigne of Three Kings, <hi>William, Lewis</hi> and <hi>James,</hi> in the Year 1692. With Reflections upon the Great Endea<g ref="char:EOLhyphen"/>vours of <hi>Lewis</hi> the 14th to effect his Deſigns, of <hi>James</hi> the 2d to Remount the Throns. And the proper Methods for the Allies to take to hinder both.</p>
+            <p>
+               <hi>Bibliotheca Politica.</hi> Or, A Diſcourſe by way of Dialogue, upon theſe Queſtions, Whether by the Ancient Laws and Conſtitutions of this King<g ref="char:EOLhyphen"/>dom, as well as by the Statutes of the 13th and 14th of King <hi>Charles</hi> the II all Reſiſtance of the King, or of thoſe commiſſioned by him, are expreſly forbid, upon any Pretence whatſoever. And alſo, Whether all thoſe who aſſiſted his Preſent Majeſty King <hi>William,</hi> either before or after the coming over, are guilty of the breach of this Law. Collected out of the moſt Ap<g ref="char:EOLhyphen"/>proved Authors, both Ancient and Modern. Dialogue the Ninth. Where are alſo to be had the Firſt, Second, Third, Fourth, Fifth, Sixth, Seventh and Eighth Dialogues.</p>
+            <p>An Anſwer to the Late King <hi>James</hi>'s Declaration, dated at St. <hi>Germains, April</hi> the 17th. S.N. 1693. Licenſed by Mr. Secretary <hi>Trenchard.</hi>
+            </p>
+            <p>
+               <hi>Nevil Payn</hi>'s Letter, and ſome other Letters that concern the Subject of his Letter. With ſhort Notes on them; for the Clearer Information of the Members of Parliament. In Order to <hi>Nevil Payn</hi>'s Tryal.</p>
+            <p>The Charge of the Right Honourable <hi>Henry</hi> Earl of <hi>Warrington,</hi> Lord <hi>Delamere,</hi> to the Grand Jury at the Quarter-Seſſions, held for the County of <hi>Cheſter,</hi> on the 11th of <hi>October,</hi> 1692.</p>
+            <p>An Account of the late Terrible Earthquake in <hi>Sicily;</hi> with moſt of its Particulars. <hi>Done from the</hi> Italian <hi>Copy printed at</hi> Rome.</p>
+            <p>Reflections upon the Late Horrid Conſpiracy contrived by ſome of the <hi>French</hi> Court, to Murther His Majeſty in <hi>Flanders:</hi> And for which Mon<g ref="char:EOLhyphen"/>ſieur <hi>Granvall,</hi> one of the Aſſaſſinates, was Executed.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
